@@ -18,7 +18,7 @@
 
 	<groupId>ru.alex</groupId>
 	<artifactId>pet-clinic</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<name>pet-clinic</name>
 
 	<description>test spring project</description>
@@ -28,7 +28,7 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/dagon1093/pet-clinic.git</developerConnection>
-		<tag>pet-clinic-0.0.1</tag>
+		<tag>pet-clinic-0.0.2</tag>
 	</scm>
 
 	<build>
@@ -50,6 +50,10 @@
 				<artifactId>maven-release-plugin</artifactId>
 				<configuration>
 					<goals>install</goals>
+					<autoVersionSubmodules>true</autoVersionSubmodules>
+					<checkModificationExcludes>
+						<checkModificationExclude>pom.xml</checkModificationExclude>
+					</checkModificationExcludes>
 				</configuration>
 			</plugin>
 		</plugins>
