@@ -1,0 +1,5 @@
+ru\alex\petclinic\model\Owner.class
+ru\alex\petclinic\model\Person.class
+ru\alex\petclinic\model\Pet.class
+ru\alex\petclinic\model\Vet.class
+ru\alex\petclinic\model\PetType.class
