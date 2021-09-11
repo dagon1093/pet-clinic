@@ -3,6 +3,7 @@ package ru.alex.petclinic.model;
 public class Person extends BaseEntity{
 
     private  String firstName;
+    private  String lastName;
 
     public String getFirstName() {
         return firstName;
@@ -20,5 +21,5 @@ public class Person extends BaseEntity{
         this.lastName = lastName;
     }
 
-    private  String lastName;
+
 }
