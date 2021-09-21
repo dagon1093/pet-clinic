@@ -1,5 +1,14 @@
-ru\alex\petclinic\model\Owner.class
 ru\alex\petclinic\model\Person.class
-ru\alex\petclinic\model\Pet.class
 ru\alex\petclinic\model\Vet.class
+ru\alex\petclinic\services\VetService.class
+ru\alex\petclinic\services\map\VetServiceMap.class
+ru\alex\petclinic\services\map\AbstractMapService.class
+ru\alex\petclinic\model\BaseEntity.class
+ru\alex\petclinic\services\CrudService.class
+ru\alex\petclinic\services\map\PetServiceMap.class
+ru\alex\petclinic\services\map\OwnerServiceMap.class
+ru\alex\petclinic\services\OwnerService.class
+ru\alex\petclinic\services\PetService.class
+ru\alex\petclinic\model\Owner.class
+ru\alex\petclinic\model\Pet.class
 ru\alex\petclinic\model\PetType.class

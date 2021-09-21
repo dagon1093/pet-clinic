@@ -1,5 +1,14 @@
 D:\JavaProjects\pet-clinic\pet-clinic-data\src\main\java\ru\alex\petclinic\model\Pet.java
-D:\JavaProjects\pet-clinic\pet-clinic-data\src\main\java\ru\alex\petclinic\model\Vet.java
-D:\JavaProjects\pet-clinic\pet-clinic-data\src\main\java\ru\alex\petclinic\model\Person.java
+D:\JavaProjects\pet-clinic\pet-clinic-data\src\main\java\ru\alex\petclinic\services\map\PetServiceMap.java
+D:\JavaProjects\pet-clinic\pet-clinic-data\src\main\java\ru\alex\petclinic\services\VetService.java
 D:\JavaProjects\pet-clinic\pet-clinic-data\src\main\java\ru\alex\petclinic\model\PetType.java
 D:\JavaProjects\pet-clinic\pet-clinic-data\src\main\java\ru\alex\petclinic\model\Owner.java
+D:\JavaProjects\pet-clinic\pet-clinic-data\src\main\java\ru\alex\petclinic\services\map\OwnerServiceMap.java
+D:\JavaProjects\pet-clinic\pet-clinic-data\src\main\java\ru\alex\petclinic\model\BaseEntity.java
+D:\JavaProjects\pet-clinic\pet-clinic-data\src\main\java\ru\alex\petclinic\services\OwnerService.java
+D:\JavaProjects\pet-clinic\pet-clinic-data\src\main\java\ru\alex\petclinic\model\Vet.java
+D:\JavaProjects\pet-clinic\pet-clinic-data\src\main\java\ru\alex\petclinic\services\map\VetServiceMap.java
+D:\JavaProjects\pet-clinic\pet-clinic-data\src\main\java\ru\alex\petclinic\services\map\AbstractMapService.java
+D:\JavaProjects\pet-clinic\pet-clinic-data\src\main\java\ru\alex\petclinic\model\Person.java
+D:\JavaProjects\pet-clinic\pet-clinic-data\src\main\java\ru\alex\petclinic\services\CrudService.java
+D:\JavaProjects\pet-clinic\pet-clinic-data\src\main\java\ru\alex\petclinic\services\PetService.java
